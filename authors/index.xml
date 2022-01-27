@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | CALA</title>
+    <link>https://www.mycala.org/authors/</link>
+      <atom:link href="https://www.mycala.org/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.mycala.org/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Authors</title>
+      <link>https://www.mycala.org/authors/</link>
+    </image>
+    
+    <item>
+      <title>Zhiyu Dai, PhD</title>
+      <link>https://www.mycala.org/authors/zhiyu-dai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.mycala.org/authors/zhiyu-dai/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Assistant Professor of Medicine, University of Arizona College of Medicine-Phoenix&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Research Interests : Research Interests: Vascular biology, Pulmonary vascular disease, Pulmonary hypertension, Right heart failure, hypoxia&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dr. Dai received his B.S. from Shandong University, China; and Ph.D. in Biochemistry and Molecular Biology from Sun Yat-sen University, China. Dr. Dai completed his postdoctoral training in lung vascular biology at University of Illinois at Chicago and Northwestern University. Dr. Dai&amp;rsquo;s research interest is studying the role of cellular mechanisms for severe pulmonary vascular remodeling in pulmonary hypertension and identification of novel targets for pulmonary hypertension. Dr. Dai was funded by NHLBI Pathway to Independence Award (Parent K99/R00) and ATS Foundation Research Program.&lt;/p&gt;
+&lt;p&gt;website: &lt;a href=&#34;https://joeytai2010.wixsite.com/dailab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://joeytai2010.wixsite.com/dailab&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
